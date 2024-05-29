@@ -1,0 +1,7 @@
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\bin\Debug\Library-Management-System-Console.exe.config
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\bin\Debug\Library-Management-System-Console.exe
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\bin\Debug\Library-Management-System-Console.pdb
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\obj\Debug\Library-Management-System-Console.csproj.AssemblyReference.cache
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\obj\Debug\Library-Management-System-Console.csproj.CoreCompileInputs.cache
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\obj\Debug\Library-Management-System-Console.exe
+C:\Users\shari\source\repos\Library-Management-System-Console\Library-Management-System-Console\obj\Debug\Library-Management-System-Console.pdb
